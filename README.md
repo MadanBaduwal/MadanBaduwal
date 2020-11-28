@@ -1,11 +1,10 @@
 ## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am [Madan Baduwal](https://madanbaduwal.epizy.com).
 
 [![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madan-baduwal-a688bb186)](https://www.linkedin.com/in/madan-baduwal-a688bb186)
-![hits](https://visitor-badge.laobi.icu/badge?page_id=Sushil-Thapa)
 <br />
 
 ## About
-- 💻 Senior Machine Learning Engineer at [Fusemachines](https://fusemachines.com).
+- 💻 Machine Learning Engineer associtate trainee at [Fusemachines](https://fusemachines.com).
 - 💡 Deep Learning / Machine Learning Instructor at [fuse.ai](https://fuse.ai).
 - ✍️ I also maintain a [blog here](https://thapasushil.com), Mostly related to my work and research on Machine Learning. 
 - 🌱 Favourite Quote: The woods are lovely, dark and deep, But I have promises to keep, And miles to go before I sleep.

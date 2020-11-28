@@ -5,11 +5,11 @@
 
 ## About
 - 💻 Machine Learning Engineer associtate trainee at [Fusemachines](https://fusemachines.com).
-- 💡 Deep Learning / Machine Learning Instructor at [fuse.ai](https://fuse.ai).
-- ✍️ I also maintain a [blog here](https://thapasushil.com), Mostly related to my work and research on Machine Learning. 
-- 🌱 Favourite Quote: The woods are lovely, dark and deep, But I have promises to keep, And miles to go before I sleep.
+- 💡 Mathematics explorer.
+- ✍️ I also maintain a [blog here](), Mostly related to my work and research on Machine Learning. 
+- 🌱 Favourite Quote: Never Give Up.
 - 🔭 Research Interests: Computer Vision, NLP, Self/Semi Supervised Learning, Reinforcement Learning, Multi-Modal Machine Learning.
-- 📃 You can find [my Resume](https://thapasushil.com/files/Resume.pdf) here.
+- 📃 You can find [my Resume]() here.
 
 
 ## Languages and Tools  
@@ -27,8 +27,8 @@
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushil-thapa&repo=ud-deep-reinforcement-learning)](https://github.com/Sushil-Thapa/ud-deep-reinforcement-learning)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushil-thapa&repo=udacity-computervision-nanodegree)](https://github.com/Sushil-Thapa/udacity-computervision-nanodegree/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushil-thapa&repo=ud-deep-reinforcement-learning)]()
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushil-thapa&repo=udacity-computervision-nanodegree)]()
 
 <br />
 

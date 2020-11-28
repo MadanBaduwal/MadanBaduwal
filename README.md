@@ -1,7 +1,6 @@
 ## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am [Madan Baduwal](https://madanbaduwal.epizy.com).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/tsusil?label=Follow&style=social)](http://twitter.com/tsusil)
-[![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thapasushil/)](https://www.linkedin.com/in/thapasushil/)
+[![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madan-baduwal-a688bb186)](https://www.linkedin.com/in/madan-baduwal-a688bb186)
 ![hits](https://visitor-badge.laobi.icu/badge?page_id=Sushil-Thapa)
 <br />
 

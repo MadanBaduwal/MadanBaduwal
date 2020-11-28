@@ -27,8 +27,8 @@
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushil-thapa&repo=ud-deep-reinforcement-learning)]()
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushil-thapa&repo=udacity-computervision-nanodegree)]()
+<!--- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushil-thapa&repo=ud-deep-reinforcement-learning)]()
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushil-thapa&repo=udacity-computervision-nanodegree)]()-->
 
 <br />
 

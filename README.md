@@ -28,8 +28,8 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github.com/MadanBaduwal/robot/blob/main/mina/src/ai/cv/nodes/object_detection/reports/Object_detection.gif" alt="Eddie teaching code on YouTube" />
-  <img width="48%" src="https://github.com/MadanBaduwal/robot/blob/main/Results/mina:object%20detection.gif" alt="Github Swag" />
+  <img width="48%" src="https://github.com/MadanBaduwal/MadanBaduwal/blob/main/Object_detection.gif" alt="Eddie teaching code on YouTube" />
+  <img width="48%" src="https://github.com/MadanBaduwal/MadanBaduwal/blob/main/mina%20object%20detection.gif" alt="Github Swag" />
   
 </p>
 

@@ -2,7 +2,7 @@
 
 ![Eddie Jaoude](https://user-images.githubusercontent.com/624760/97735079-c7f2d780-1ad1-11eb-84b6-52740912a1bc.jpg)
 
-<p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out on Videos and Live streams 🎥</p>
+<p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="https://www.youtube.com/channel/UCnJhPtjZJHtSvYgviEBJImA">YouTube channel</a> so we can geek out on Videos and Live streams 🎥</p>
 
 <p align="center"><b>Part of the <a href = "https://stars.github.com/profiles"> GitHub Stars program and Star of 2020</a></b></p>
 
@@ -31,8 +31,6 @@
   <img width="48%" src="https://github.com/MadanBaduwal/robot/blob/main/mina/src/ai/cv/nodes/object_detection/reports/Object_detection.gif" alt="Eddie teaching code on YouTube" />
   <img width="48%" src="https://github.com/MadanBaduwal/robot/blob/main/Results/mina:object%20detection.gif" alt="Github Swag" />
   
-  <img width="48%" src="https://github.com/MadanBaduwal/robot/blob/main/mina/src/ai/cv/nodes/face-recognition/results/face-recognition.gif" alt="Github Swag" />
-
 </p>
 
 

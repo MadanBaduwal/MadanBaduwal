@@ -1,6 +1,6 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-![Eddie Jaoude](https://github.com/MadanBaduwal/MadanBaduwal/blob/main/rsz_1rsz_youtube-banner.jpg)
+![Eddie Jaoude](https://github.com/MadanBaduwal/MadanBaduwal/blob/main/madan-youtube-banner.jpg)
 
 <p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="https://www.youtube.com/channel/UCnJhPtjZJHtSvYgviEBJImA">YouTube channel</a> so we can geek out on Videos and Live streams 🎥</p>
 

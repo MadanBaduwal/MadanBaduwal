@@ -70,9 +70,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MadanBaduwal&theme=tokyonight" />
 </p>
 
-<h4 align="center">Testimonials</h4>
+<!--<h4 align="center">Testimonials</h4>
 <h1 align="center">❝</h1>
-
 <table>
   <tr>
     <th>Author</th>
@@ -95,15 +94,14 @@
     <td>Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.</td>
   </tr>
 </table>
-
-<h1 align="center">❞</h1>
+<h1 align="center">❞</h1>-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/SaraJaoude/dotfiles/pull/1) in [SaraJaoude/dotfiles](https://github.com/SaraJaoude/dotfiles)
+<!--1. 💪 Opened PR [#1](https://github.com/SaraJaoude/dotfiles/pull/1) in [SaraJaoude/dotfiles](https://github.com/SaraJaoude/dotfiles)
 2. 🗣 Commented on [#86](https://github.com/EddieHubCommunity/api/issues/86) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 3. 🗣 Commented on [#86](https://github.com/EddieHubCommunity/api/issues/86) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 4. 🗣 Commented on [#86](https://github.com/EddieHubCommunity/api/issues/86) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 🗣 Commented on [#86](https://github.com/EddieHubCommunity/api/issues/86) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. 🗣 Commented on [#86](https://github.com/EddieHubCommunity/api/issues/86) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)-->
 <!--END_SECTION:activity-->
 
 

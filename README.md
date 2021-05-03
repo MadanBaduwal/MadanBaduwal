@@ -2,15 +2,44 @@
 
 ![Eddie Jaoude](https://github.com/MadanBaduwal/MadanBaduwal/blob/main/madan-youtube-banner.jpg)
 
-<p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="https://www.youtube.com/channel/UCnJhPtjZJHtSvYgviEBJImA">YouTube channel</a> so we can geek out on Videos and Live streams 🎥</p>
 
-<p align="center"><b>Part of the <a href = "https://stars.github.com/profiles"> GitHub Stars program and Star of 2020</a></b></p>
+## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am [Madan Baduwal](https://madanbaduwal.github.io).
 
-<p align="center">In recent years, I have trended on GitHub with the likes of Twitter, Facebook, Angular, etc. and was in the Top 500 open source contributors in the world. As a senior software engineer, the more I learn, the more I realize how much I still need to learn.</p>
+[![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madan-baduwal-a688bb186)](https://www.linkedin.com/in/madan-baduwal-a688bb186)
+<br />
 
-<p align="center">
-  Join our MLH Guild <b>EddieHub</b> for #LocalHackDay to earn more points and swag! <a href="https://localhackday.mlh.io/build">Sign up now</a>
-</p>
+## About
+- 💻 Machine Learning Engineer associtate trainee at [Fusemachines](https://fusemachines.com).
+- 💡 Mathematics explorer.
+- ✍️ I also maintain a [blog here](https://madanbaduwal.github.io/), Mostly related to my work and research on Machine Learning. 
+- 🌱 Favourite Quote: Never Give Up.
+- 🔭 Research Interests: Computer Vision, NLP, Self/Semi Supervised Learning, Reinforcement Learning, Multi-Modal Machine Learning.
+- 📃 You can find [my Resume](https://github.com/MadanBaduwal/MadanBaduwal.github.io/blob/main/resume/madan%20cv.pdf) here.
+
+
+## Languages and Tools  
+<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
+<br />
+
+<details>
+<summary>
+  Additional projects I sometimes work on :arrow_down:
+</summary>
+
+<br />
+
+<!--- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushil-thapa&repo=ud-deep-reinforcement-learning)]()
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushil-thapa&repo=udacity-computervision-nanodegree)]()-->
+
+<br />
+
+
+[comment]:![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+</details>
 
 <p align="center">
   <a href="https://github.com/eddiejaoude?tab=followers">
@@ -86,40 +115,3 @@
 
 
 
-## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am [Madan Baduwal](https://madanbaduwal.github.io).
-
-[![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madan-baduwal-a688bb186)](https://www.linkedin.com/in/madan-baduwal-a688bb186)
-<br />
-
-## About
-- 💻 Machine Learning Engineer associtate trainee at [Fusemachines](https://fusemachines.com).
-- 💡 Mathematics explorer.
-- ✍️ I also maintain a [blog here](https://madanbaduwal.github.io/), Mostly related to my work and research on Machine Learning. 
-- 🌱 Favourite Quote: Never Give Up.
-- 🔭 Research Interests: Computer Vision, NLP, Self/Semi Supervised Learning, Reinforcement Learning, Multi-Modal Machine Learning.
-- 📃 You can find [my Resume](https://github.com/MadanBaduwal/MadanBaduwal.github.io/blob/main/resume/madan%20cv.pdf) here.
-
-
-## Languages and Tools  
-<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-<br />
-
-<details>
-<summary>
-  Additional projects I sometimes work on :arrow_down:
-</summary>
-
-<br />
-
-<!--- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushil-thapa&repo=ud-deep-reinforcement-learning)]()
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushil-thapa&repo=udacity-computervision-nanodegree)]()-->
-
-<br />
-
-
-[comment]:![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-</details>

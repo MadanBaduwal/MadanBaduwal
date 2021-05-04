@@ -9,11 +9,12 @@
 <br />
 
 ## About
-- 💻 Machine Learning Engineer associtate trainee at [Fusemachines](https://fusemachines.com).
+- 💻 Machine Learning Engineer associtate at [Fusemachines](https://fusemachines.com).
 - 💡 Mathematics explorer.
 - ✍️ I also maintain a [blog here](https://madanbaduwal.github.io/), Mostly related to my work and research on Machine Learning. 
 - 🌱 Favourite Quote: Never Give Up.
 - 🔭 Research Interests: Computer Vision, NLP, Self/Semi Supervised Learning, Reinforcement Learning, Multi-Modal Machine Learning.
+- 🔭 Read My research paper : 
 - 📃 You can find [my Resume](https://github.com/MadanBaduwal/MadanBaduwal.github.io/blob/main/resume/madan%20cv.pdf) here.
 
 

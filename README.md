@@ -14,8 +14,8 @@
 - ✍️ I also maintain a [blog here](https://madanbaduwal.github.io/), Mostly related to my work and research on Machine Learning. 
 - 🌱 Favourite Quote: Never Give Up.
 - 🔭 Research Interests: Computer Vision, NLP, Self/Semi Supervised Learning, Reinforcement Learning, Multi-Modal Machine Learning.
-- 🔭 Read My [publications](https://madanbaduwal.com.np/publications/): 
-- 📃 You can find [my Resume](https://github.com/MadanBaduwal/MadanBaduwal.github.io/blob/main/resume/madan%20cv.pdf) here.
+- 🔭 Read My [publications](https://madanbaduwal.github.io/publications/): 
+- 📃 You can find [my Resume](https://madanbaduwal.github.io/publications/) here.
 
 
 ## Languages and Tools  

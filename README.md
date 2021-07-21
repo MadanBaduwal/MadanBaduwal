@@ -1,12 +1,4 @@
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
-
-![Eddie Jaoude](https://github.com/MadanBaduwal/MadanBaduwal/blob/main/madan-youtube-banner.jpg)
-
-
 ## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am [Madan Baduwal](https://madanbaduwal.github.io).
-
-[![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madan-baduwal-a688bb186)](https://www.linkedin.com/in/madan-baduwal-a688bb186)
-<br />
 
 ## About
 - 💻 Machine Learning Engineer associtate at [Fusemachines](https://fusemachines.com).
